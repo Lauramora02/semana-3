@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	}
+
+
+h1 {
+	font-family: Blippo, fantasy;
+	font-weight: 7000;
+	color: black;
+	font-size: 90px;
+	background-color: orange;
+	}
+
+h2 {
+	color: orange;
+	font-family: Luminari, fantasy;
+	font-size: 70px;
+	 }
+
+
+p{color:white;}
+	 nav{ background-color: orange; 
+	 	color: black;
+	 }
+	 	 ul { list-style-type: none;
+	 		margin:0;
+	 		padding:0;
+	 		overflow: hidden;
+	 	  }
+	 	  li {
+    display: inline;
+}
+
+	aside { 
+    display: block;
+    align-items: left;
+    color: orange;
+    display: block;
+    width: 59px;
+    size: height:90px x weight:150px;
+    background-color: grey;
+}
+
+
+img {
+	width: 700px; 
+	height: 500px;
+
+}
